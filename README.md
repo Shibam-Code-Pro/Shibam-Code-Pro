@@ -1,12 +1,21 @@
-# Hi there! 👋 I'm Shibam Banerjee 🚀
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shibam Banerjee 🚀
 
 <div align="center">
   <img src="./intro-design.png" alt="Shibam Banerjee - Frontend Developer" width="100%" />
 </div>
 
 <div align="center">
+  <a href="mailto:Connect-With-Shibam@outlook.com">
+    <img src="https://img.shields.io/badge/EMAIL-Connect--With--Shibam@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://iam-shibam-dev.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-iam--shibam--dev.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Shibam-Code-Pro?color=1F51FF&style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shibam-Code-Pro&color=1F51FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Shibam-Code-Pro?color=1F51FF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
 </div>
 
 ---
