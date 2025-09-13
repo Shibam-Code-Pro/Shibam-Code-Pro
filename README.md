@@ -32,21 +32,29 @@ const shibam = {
     },
     currentRole: "Frontend Web Developer",
     portfolio: "https://iam-shibam-dev.vercel.app",
+    experience: "2+ years building modern web applications",
     
-    code: ["JavaScript", "HTML", "CSS", "React", "Next.js"],
+    code: ["JavaScript", "HTML", "CSS", "React", "Next.js", "TypeScript"],
     technologies: {
         frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
         styling: ["CSS3", "SCSS", "Tailwind", "Bootstrap"],
-        tools: ["Git", "VS Code", "Figma", "Photoshop"],
+        tools: ["Git", "VS Code", "Figma", "Photoshop", "Vercel"],
         databases: ["MongoDB", "MySQL"],
-        currentlyLearning: ["TypeScript", "Node.js", "Three.js"]
+        currentlyLearning: ["TypeScript", "Node.js", "Three.js", "GSAP"]
+    },
+    
+    projects: {
+        total: "21+ live projects",
+        featured: ["Portfolio", "E-commerce", "API Integrations", "Utilities"],
+        deployment: "Vercel, GitHub Pages"
     },
     
     funFacts: [
         "🎨 I love creating neon cyber aesthetics",
         "⚡ I'm passionate about smooth animations",
         "🌟 Always exploring new web technologies",
-        "🎯 Building pixel-perfect user interfaces"
+        "🎯 Building pixel-perfect user interfaces",
+        "🚀 21+ projects deployed and counting!"
     ]
 };
 ```
@@ -110,10 +118,13 @@ const shibam = {
 
 🌟 **Recent Accomplishments**
 - ✅ Completed MCA degree with distinction
-- 🎓 Built 8+ frontend projects
-- 💼 Created professional portfolio website
-- 🎯 Mastered modern React ecosystem
-- 🚀 Deployed projects on Vercel platform
+- 🎓 Built 21+ diverse frontend projects
+- 💼 Created multiple professional portfolio websites
+- 🎯 Mastered modern React & Next.js ecosystem
+- 🚀 Successfully deployed projects on Vercel & GitHub Pages
+- 🔧 Developed utility apps, games, and business tools
+- 🌐 Integrated multiple external APIs (Weather, Pokémon, RPG)
+- 📱 Achieved 100% responsive design across all projects
 
 </div>
 
@@ -125,16 +136,344 @@ const shibam = {
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Shibam-Code-Pro&repo=iam-shibam-dev&theme=tokyonight&bg_color=0B0C10&title_color=1F51FF&text_color=D9D9D9&icon_color=B026FF)](https://github.com/Shibam-Code-Pro/iam-shibam-dev)
 
+### 🌐 **[Live Portfolio](https://iam-shibam-dev.vercel.app)**
+*Modern Next.js portfolio with neon cyber aesthetic*
+
+**✨ Key Features:**
+```
+🎬 Cinematic loading animations with smooth transitions
+🎨 Glassmorphism design elements and modern UI/UX  
+⚡ Lightning-fast performance with Next.js optimization
+📱 Fully responsive design across all devices
+🔍 SEO optimized with perfect Lighthouse scores
+🚀 Deployed on Vercel with continuous integration
+```
+
+<p>
+  <a href="https://iam-shibam-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/iam-shibam-dev" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 </div>
 
-**🌐 [Live Portfolio](https://iam-shibam-dev.vercel.app)** - Modern Next.js portfolio with neon cyber aesthetic
+---
 
-**Key Features:**
-- 🎬 Cinematic loading animations
-- 🎨 Glassmorphism design elements  
-- ⚡ Lightning-fast performance
-- 📱 Fully responsive design
-- 🔍 SEO optimized
+## 🎨 Projects Showcase
+
+<div align="center">
+
+### 🚀 Web Applications & Tools
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h4>🦸‍♂️ Avengers Creature Search App</h4>
+<img src="./screenshot/avengers-creature-search-app-shibam.png" alt="Avengers Creature Search App" width="100%"/>
+<p><em>Interactive Marvel characters explorer with modal popups</em></p>
+<p>
+  <a href="https://avengers-creature-search-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/avengers-creature-search-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>📝 Modern Blog Application</h4>
+<img src="./screenshot/blog-app-shibam.png" alt="Blog App" width="100%"/>
+<p><em>WordPress-powered blog with custom theme integration</em></p>
+<p>
+  <a href="https://blog-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/blog-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>💰 Cash Register System</h4>
+<img src="./screenshot/cash-register-app-shibam.png" alt="Cash Register App" width="100%"/>
+<p><em>Professional POS system with currency breakdown</em></p>
+<p>
+  <a href="https://cash-register-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/cash-register-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>🛒 E-Commerce Cart</h4>
+<img src="./screenshot/ecommerce-cart-shibam.png" alt="E-Commerce Cart" width="100%"/>
+<p><em>Dynamic shopping cart with localStorage persistence</em></p>
+<p>
+  <a href="https://ecommerce-cart-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/ecommerce-cart-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>🎨 Figma to HTML Conversion</h4>
+<img src="./screenshot/figma-to-html-shibam.png" alt="Figma to HTML" width="100%"/>
+<p><em>Pixel-perfect design to responsive HTML/CSS</em></p>
+<p>
+  <a href="https://figma-to-html-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/figma-to-html-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>🔍 Google Homepage Clone</h4>
+<img src="./screenshot/google-homepage-shibam.png" alt="Google Homepage" width="100%"/>
+<p><em>Clean, minimal search interface recreation</em></p>
+<p>
+  <a href="https://google-homepage-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/google-homepage-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>🧩 Mini Web Components Library</h4>
+<img src="./screenshot/mini-web-components-library-shibam.png" alt="Web Components Library" width="100%"/>
+<p><em>Reusable UI components with vanilla JavaScript</em></p>
+<p>
+  <a href="https://mini-web-components-library-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/mini-web-components-library-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>🔤 Palindrome Checker</h4>
+<img src="./screenshot/palindrome-checker-app-shibam.png" alt="Palindrome Checker" width="100%"/>
+<p><em>Smart text analysis with intelligent processing</em></p>
+<p>
+  <a href="https://palindrome-checker-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/palindrome-checker-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>💼 Personal Portfolio</h4>
+<img src="./screenshot/personal-portfolio-webpage-shibam.png" alt="Personal Portfolio" width="100%"/>
+<p><em>Modern portfolio with smooth animations</em></p>
+<p>
+  <a href="https://personal-portfolio-webpage-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/personal-portfolio-webpage-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>🐾 Pokémon Search App</h4>
+<img src="./screenshot/pokémon-creature-search-app-shibam.png" alt="Pokemon Search App" width="100%"/>
+<p><em>Comprehensive Pokédex with PokéAPI integration</em></p>
+<p>
+  <a href="https://pokemon-creature-search-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/pokemon-creature-search-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>🎯 Portfolio Website</h4>
+<img src="./screenshot/portfolio-shibam.png" alt="Portfolio Website" width="100%"/>
+<p><em>Responsive portfolio with Bootstrap framework</em></p>
+<p>
+  <a href="https://portfolio-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/portfolio-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>📦 Product Landing Page</h4>
+<img src="./screenshot/product-landing-page-shibam.png" alt="Product Landing Page" width="100%"/>
+<p><em>Modern product showcase with pricing plans</em></p>
+<p>
+  <a href="https://product-landing-page-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/product-landing-page-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>🏛️ Roman Numeral Converter</h4>
+<img src="./screenshot/roman-numeral-converter-app-shibam.png" alt="Roman Numeral Converter" width="100%"/>
+<p><em>Elegant converter with comprehensive reference</em></p>
+<p>
+  <a href="https://roman-numeral-converter-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/roman-numeral-converter-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>🎲 RPG Creature Search</h4>
+<img src="./screenshot/rpg-creature-search-app-shibam.png" alt="RPG Creature Search" width="100%"/>
+<p><em>Fantasy creature explorer with detailed stats</em></p>
+<p>
+  <a href="https://rpg-creature-search-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/rpg-creature-search-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>🧮 Scientific Calculator</h4>
+<img src="./screenshot/scientific-calculator-shibam.png" alt="Scientific Calculator" width="100%"/>
+<p><em>Advanced calculator with scientific functions</em></p>
+<p>
+  <a href="https://scientific-calculator-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/scientific-calculator-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>📋 Survey Form</h4>
+<img src="./screenshot/survey-form-shibam.png" alt="Survey Form" width="100%"/>
+<p><em>Comprehensive form with validation & accessibility</em></p>
+<p>
+  <a href="https://survey-form-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/survey-form-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>📚 Technical Documentation</h4>
+<img src="./screenshot/technical-documentation-page-shibam.png" alt="Technical Documentation" width="100%"/>
+<p><em>Python documentation with syntax highlighting</em></p>
+<p>
+  <a href="https://technical-documentation-page-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/technical-documentation-page-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>📞 Phone Number Validator</h4>
+<img src="./screenshot/telephone-number-validator-app-shibam.png" alt="Phone Validator" width="100%"/>
+<p><em>US phone number validation with pattern recognition</em></p>
+<p>
+  <a href="https://telephone-number-validator-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/telephone-number-validator-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h4>✅ To-Do List App</h4>
+<img src="./screenshot/to-do-list-shibam.png" alt="To-Do List" width="100%"/>
+<p><em>Modern task manager with CRUD operations</em></p>
+<p>
+  <a href="https://to-do-list-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/to-do-list-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+<td width="50%" align="center">
+<h4>🏆 Tribute Page</h4>
+<img src="./screenshot/tribute-page-shibam.png" alt="Tribute Page" width="100%"/>
+<p><em>Elegant tribute to Dr. Marie Curie with timeline</em></p>
+<p>
+  <a href="https://tribute-page-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/tribute-page-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h4>🌤️ Weather Application</h4>
+<img src="./screenshot/weather-app-shibam.png" alt="Weather App" width="50%"/>
+<p><em>Dynamic weather app with external API integration</em></p>
+<p>
+  <a href="https://weather-app-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/weather-app-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+</table>
+
+### 📊 Project Statistics
+- **21+ Live Projects** deployed and functional
+- **Multiple Tech Stacks** - HTML, CSS, JavaScript, React, Next.js, Bootstrap
+- **API Integrations** - Weather API, PokéAPI, RPG Creature API
+- **Responsive Design** - Mobile-first approach across all projects
+- **Modern UI/UX** - Clean, intuitive interfaces with smooth animations
+
+</div>
 
 ---
 
@@ -162,7 +501,48 @@ const shibam = {
 🎨 Enjoy designing with neon colors and futuristic aesthetics
 🚀 Building projects that combine functionality with visual appeal
 📚 Continuous learner - currently diving into TypeScript and Three.js
+🏆 Proud creator of 21+ live web applications and tools
+💡 Specialized in API integrations and dynamic web experiences
 ```
+
+</div>
+
+---
+
+## ⚡ Quick Skills Overview
+
+<div align="center">
+
+**Frontend Development**
+```
+🚀 React & Next.js    ████████████████████ 100%
+⚡ JavaScript (ES6+)  ████████████████████ 100%
+🎨 HTML5 & CSS3       ████████████████████ 100%
+💫 Tailwind CSS       ██████████████████░░  90%
+🎭 Framer Motion      ████████████████░░░░  80%
+```
+
+**Tools & Platforms**
+```
+🛠️ Git & GitHub       ████████████████████ 100%
+🎯 VS Code            ████████████████████ 100%
+🎨 Figma              ██████████████████░░  90%
+🚀 Vercel Deployment  ████████████████████ 100%
+📊 API Integration    ██████████████████░░  90%
+```
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+💼 **Open to opportunities:** Frontend Developer roles, Freelance projects  
+📧 **Response time:** Usually within 24 hours  
+🌍 **Location:** Kolkata, India (Open to remote work)  
+🚀 **Currently Working On:** TypeScript migration & Three.js experiments
 
 </div>
 
@@ -186,5 +566,13 @@ const shibam = {
 ---
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibam-Code-Pro&bg_color=0B0C10&color=D9D9D9&line=1F51FF&point=B026FF&area=true&hide_border=true&custom_title=Contribution%20Calendar" alt="Contribution Calendar" />
+</div>
+
+---
+
+<div align="center">
   <i>⭐ From <a href="https://github.com/Shibam-Code-Pro">Shibam Banerjee</a> - Building the future, one line of code at a time! ⭐</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Shibam-Code-Pro&color=1F51FF&style=flat-square&label=Thanks+for+visiting!" alt="Thanks for visiting" />
 </div>
