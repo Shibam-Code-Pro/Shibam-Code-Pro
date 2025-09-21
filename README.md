@@ -170,9 +170,9 @@ const shibam = {
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🦸‍♂️ Avengers Creature Search App</h4>
-<img src="./screenshot/avengers-creature-search-app-shibam.png" alt="Avengers Creature Search App" width="100%"/>
+<img src="./screenshot/avengers-creature-search-app-shibam.png" alt="Avengers Creature Search App" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Interactive Marvel characters explorer with modal popups</em></p>
 <p>
   <a href="https://avengers-creature-search-app-shibam.vercel.app" target="_blank">
@@ -183,9 +183,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>📝 Modern Blog Application</h4>
-<img src="./screenshot/blog-app-shibam.png" alt="Blog App" width="100%"/>
+<img src="./screenshot/blog-app-shibam.png" alt="Blog App" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>WordPress-powered blog with custom theme integration</em></p>
 <p>
   <a href="https://blog-app-shibam.vercel.app" target="_blank">
@@ -198,9 +198,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>💰 Cash Register System</h4>
-<img src="./screenshot/cash-register-app-shibam.png" alt="Cash Register App" width="100%"/>
+<img src="./screenshot/cash-register-app-shibam.png" alt="Cash Register App" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Professional POS system with currency breakdown</em></p>
 <p>
   <a href="https://cash-register-app-shibam.vercel.app" target="_blank">
@@ -211,9 +211,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🛒 E-Commerce Cart</h4>
-<img src="./screenshot/ecommerce-cart-shibam.png" alt="E-Commerce Cart" width="100%"/>
+<img src="./screenshot/ecommerce-cart-shibam.png" alt="E-Commerce Cart" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Dynamic shopping cart with localStorage persistence</em></p>
 <p>
   <a href="https://ecommerce-cart-shibam.vercel.app" target="_blank">
@@ -226,9 +226,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🎨 Figma to HTML Conversion</h4>
-<img src="./screenshot/figma-to-html-shibam.png" alt="Figma to HTML" width="100%"/>
+<img src="./screenshot/figma-to-html-shibam.png" alt="Figma to HTML" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Pixel-perfect design to responsive HTML/CSS</em></p>
 <p>
   <a href="https://figma-to-html-shibam.vercel.app" target="_blank">
@@ -239,9 +239,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🔍 Google Homepage Clone</h4>
-<img src="./screenshot/google-homepage-shibam.png" alt="Google Homepage" width="100%"/>
+<img src="./screenshot/google-homepage-shibam.png" alt="Google Homepage" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Clean, minimal search interface recreation</em></p>
 <p>
   <a href="https://google-homepage-shibam.vercel.app" target="_blank">
@@ -254,9 +254,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🧩 Mini Web Components Library</h4>
-<img src="./screenshot/mini-web-components-library-shibam.png" alt="Web Components Library" width="100%"/>
+<img src="./screenshot/mini-web-components-library-shibam.png" alt="Web Components Library" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Reusable UI components with vanilla JavaScript</em></p>
 <p>
   <a href="https://mini-web-components-library-shibam.vercel.app" target="_blank">
@@ -267,9 +267,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🔤 Palindrome Checker</h4>
-<img src="./screenshot/palindrome-checker-app-shibam.png" alt="Palindrome Checker" width="100%"/>
+<img src="./screenshot/palindrome-checker-app-shibam.png" alt="Palindrome Checker" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Smart text analysis with intelligent processing</em></p>
 <p>
   <a href="https://palindrome-checker-app-shibam.vercel.app" target="_blank">
@@ -282,9 +282,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>💼 Personal Portfolio</h4>
-<img src="./screenshot/personal-portfolio-webpage-shibam.png" alt="Personal Portfolio" width="100%"/>
+<img src="./screenshot/personal-portfolio-webpage-shibam.png" alt="Personal Portfolio" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Modern portfolio with smooth animations</em></p>
 <p>
   <a href="https://personal-portfolio-webpage-shibam.vercel.app" target="_blank">
@@ -295,9 +295,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🐾 Pokémon Search App</h4>
-<img src="./screenshot/pokémon-creature-search-app-shibam.png" alt="Pokemon Search App" width="100%"/>
+<img src="./screenshot/pokémon-creature-search-app-shibam.png" alt="Pokemon Search App" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Comprehensive Pokédex with PokéAPI integration</em></p>
 <p>
   <a href="https://pokemon-creature-search-app-shibam.vercel.app" target="_blank">
@@ -310,9 +310,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🎯 Portfolio Website</h4>
-<img src="./screenshot/portfolio-shibam.png" alt="Portfolio Website" width="100%"/>
+<img src="./screenshot/portfolio-shibam.png" alt="Portfolio Website" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Responsive portfolio with Bootstrap framework</em></p>
 <p>
   <a href="https://portfolio-shibam.vercel.app" target="_blank">
@@ -323,9 +323,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>📦 Product Landing Page</h4>
-<img src="./screenshot/product-landing-page-shibam.png" alt="Product Landing Page" width="100%"/>
+<img src="./screenshot/product-landing-page-shibam.png" alt="Product Landing Page" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Modern product showcase with pricing plans</em></p>
 <p>
   <a href="https://product-landing-page-shibam.vercel.app" target="_blank">
@@ -338,9 +338,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🏛️ Roman Numeral Converter</h4>
-<img src="./screenshot/roman-numeral-converter-app-shibam.png" alt="Roman Numeral Converter" width="100%"/>
+<img src="./screenshot/roman-numeral-converter-app-shibam.png" alt="Roman Numeral Converter" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Elegant converter with comprehensive reference</em></p>
 <p>
   <a href="https://roman-numeral-converter-app-shibam.vercel.app" target="_blank">
@@ -351,9 +351,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🎲 RPG Creature Search</h4>
-<img src="./screenshot/rpg-creature-search-app-shibam.png" alt="RPG Creature Search" width="100%"/>
+<img src="./screenshot/rpg-creature-search-app-shibam.png" alt="RPG Creature Search" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Fantasy creature explorer with detailed stats</em></p>
 <p>
   <a href="https://rpg-creature-search-app-shibam.vercel.app" target="_blank">
@@ -366,9 +366,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🧮 Scientific Calculator</h4>
-<img src="./screenshot/scientific-calculator-shibam.png" alt="Scientific Calculator" width="100%"/>
+<img src="./screenshot/scientific-calculator-shibam.png" alt="Scientific Calculator" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Advanced calculator with scientific functions</em></p>
 <p>
   <a href="https://scientific-calculator-shibam.vercel.app" target="_blank">
@@ -379,9 +379,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>📋 Survey Form</h4>
-<img src="./screenshot/survey-form-shibam.png" alt="Survey Form" width="100%"/>
+<img src="./screenshot/survey-form-shibam.png" alt="Survey Form" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Comprehensive form with validation & accessibility</em></p>
 <p>
   <a href="https://survey-form-shibam.vercel.app" target="_blank">
@@ -394,9 +394,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>📚 Technical Documentation</h4>
-<img src="./screenshot/technical-documentation-page-shibam.png" alt="Technical Documentation" width="100%"/>
+<img src="./screenshot/technical-documentation-page-shibam.png" alt="Technical Documentation" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Python documentation with syntax highlighting</em></p>
 <p>
   <a href="https://technical-documentation-page-shibam.vercel.app" target="_blank">
@@ -407,9 +407,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>📞 Phone Number Validator</h4>
-<img src="./screenshot/telephone-number-validator-app-shibam.png" alt="Phone Validator" width="100%"/>
+<img src="./screenshot/telephone-number-validator-app-shibam.png" alt="Phone Validator" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>US phone number validation with pattern recognition</em></p>
 <p>
   <a href="https://telephone-number-validator-app-shibam.vercel.app" target="_blank">
@@ -422,9 +422,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>✅ To-Do List App</h4>
-<img src="./screenshot/to-do-list-shibam.png" alt="To-Do List" width="100%"/>
+<img src="./screenshot/to-do-list-shibam.png" alt="To-Do List" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Modern task manager with CRUD operations</em></p>
 <p>
   <a href="https://to-do-list-shibam.vercel.app" target="_blank">
@@ -435,9 +435,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🏆 Tribute Page</h4>
-<img src="./screenshot/tribute-page-shibam.png" alt="Tribute Page" width="100%"/>
+<img src="./screenshot/tribute-page-shibam.png" alt="Tribute Page" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Elegant tribute to Dr. Marie Curie with timeline</em></p>
 <p>
   <a href="https://tribute-page-shibam.vercel.app" target="_blank">
@@ -450,9 +450,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🌤️ Weather Application</h4>
-<img src="./screenshot/weather-app-shibam.png" alt="Weather App" width="100%"/>
+<img src="./screenshot/weather-app-shibam.png" alt="Weather App" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Dynamic weather app with external API integration</em></p>
 <p>
   <a href="https://weather-app-shibam.vercel.app" target="_blank">
@@ -463,9 +463,9 @@ const shibam = {
   </a>
 </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="vertical-align: top; height: 400px;">
 <h4>🍰 Cake Shop Website</h4>
-<img src="./screenshot/cake-shop-shibam.png" alt="Cake Shop" width="100%"/>
+<img src="./screenshot/cake-shop-shibam.png" alt="Cake Shop" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"/>
 <p><em>Beautiful bakery website with product showcase</em></p>
 <p>
   <a href="https://cake-shop-shibam.vercel.app" target="_blank">
