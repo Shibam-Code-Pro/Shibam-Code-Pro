@@ -44,7 +44,7 @@ const shibam = {
     },
     
     projects: {
-        total: "21+ live projects",
+        total: "24+ live projects",
         featured: ["Portfolio", "E-commerce", "API Integrations", "Utilities"],
         deployment: "Vercel, GitHub Pages"
     },
@@ -54,7 +54,7 @@ const shibam = {
         "⚡ I'm passionate about smooth animations",
         "🌟 Always exploring new web technologies",
         "🎯 Building pixel-perfect user interfaces",
-        "🚀 21+ projects deployed and counting!"
+        "🚀 24+ projects deployed and counting!"
     ]
 };
 ```
@@ -118,7 +118,7 @@ const shibam = {
 
 🌟 **Recent Accomplishments**
 - ✅ Completed MCA degree with distinction
-- 🎓 Built 21+ diverse frontend projects
+- 🎓 Built 24+ diverse frontend projects
 - 💼 Created multiple professional portfolio websites
 - 🎯 Mastered modern React & Next.js ecosystem
 - 🚀 Successfully deployed projects on Vercel & GitHub Pages
@@ -450,9 +450,9 @@ const shibam = {
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 <h4>🌤️ Weather Application</h4>
-<img src="./screenshot/weather-app-shibam.png" alt="Weather App" width="50%"/>
+<img src="./screenshot/weather-app-shibam.png" alt="Weather App" width="100%"/>
 <p><em>Dynamic weather app with external API integration</em></p>
 <p>
   <a href="https://weather-app-shibam.vercel.app" target="_blank">
@@ -463,11 +463,39 @@ const shibam = {
   </a>
 </p>
 </td>
+<td width="50%" align="center">
+<h4>🍰 Cake Shop Website</h4>
+<img src="./screenshot/cake-shop-shibam.png" alt="Cake Shop" width="100%"/>
+<p><em>Beautiful bakery website with product showcase</em></p>
+<p>
+  <a href="https://cake-shop-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/cake-shop-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h4>📝 Web Development Notes</h4>
+<img src="./screenshot/web-development-notes-shibam.png" alt="Web Development Notes" width="50%"/>
+<p><em>Comprehensive web development reference and notes</em></p>
+<p>
+  <a href="https://web-development-notes-shibam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Shibam-Code-Pro/web-development-notes-shibam" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+</td>
 </tr>
 </table>
 
 ### 📊 Project Statistics
-- **21+ Live Projects** deployed and functional
+- **24+ Live Projects** deployed and functional
 - **Multiple Tech Stacks** - HTML, CSS, JavaScript, React, Next.js, Bootstrap
 - **API Integrations** - Weather API, PokéAPI, RPG Creature API
 - **Responsive Design** - Mobile-first approach across all projects
@@ -501,7 +529,7 @@ const shibam = {
 🎨 Enjoy designing with neon colors and futuristic aesthetics
 🚀 Building projects that combine functionality with visual appeal
 📚 Continuous learner - currently diving into TypeScript and Three.js
-🏆 Proud creator of 21+ live web applications and tools
+🏆 Proud creator of 24+ live web applications and tools
 💡 Specialized in API integrations and dynamic web experiences
 ```
 
